@@ -1,6 +1,6 @@
 {
-  "name": "Mainframe — Creative Agency",
-  "description": "Full-screen interactive hero landing page for creative agency Mainframe featuring horizontal mouse-scrubbed background video, A.R.I.A typewriter agent, and responsive action workflows.",
+  "name": "RIM Platform — CDF Aerodynamics & AI Engine",
+  "description": "Next-generation browser CDF workbench combining real-time Navier-Stokes flow, Fourier Neural Operators (FNO), 3D vector fields, and 4-stage aerodynamics pipeline.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
